@@ -1,0 +1,15 @@
+[project]
+name = "autodetect"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.0.0",
+    "kaggle>=1.7.4.5",
+    "matplotlib>=3.10.6",
+    "numpy>=2.3.3",
+    "pandas>=2.3.2",
+    "pillow>=11.3.0",
+    "transformers>=4.56.1",
+]
