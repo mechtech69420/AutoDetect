@@ -12,3 +12,10 @@
 - gradio GUI
 # Model training 
 ![test](images/loss.png)
+
+# Model Quantization
+```bash
+-rw-r--r-- 1 root root  63M Sep 16 21:11 model_bfloat16.zip
+-rw-r--r-- 1 root root  74M Sep 16 20:51 model_float16.zip
+-rw-r--r-- 1 root root 411M Sep 16 20:56 model.zip
+```
