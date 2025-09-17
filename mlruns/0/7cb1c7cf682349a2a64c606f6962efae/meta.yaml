@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/0/7cb1c7cf682349a2a64c606f6962efae/artifacts
+end_time: 1758043280134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cb1c7cf682349a2a64c606f6962efae
+run_name: capable-auk-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758042958473
+status: 3
+tags: []
+user_id: root
